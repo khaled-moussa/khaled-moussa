@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey 👋 I'm [Your Name]
+# Hey 👋 I'm Khaled Moussa
 
-### 🚀 Accountant | Finance Enthusiast | Future Tech Professional
+### 🚀 Laravel Developer | Backend Engineer | PHP Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;Always+Learning+New+Things;Finance+%2B+Technology+%F0%9F%92%BB" />
 
@@ -13,8 +13,8 @@
 # 💫 About Me
 
 ✨ Passionate about learning and improving every day  
-💼 Currently working in banking & finance  
-📚 Interested in Accounting, HR, Finance & Technology  
+💼 Building scalable backend applications with Laravel & PHP  
+📚 Interested in Backend Development, APIs, Databases & Clean Architecture  
 🌍 Based in Egypt  
 🎯 Goal: Build a strong professional and technical career
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,js,html,css,git,github,vscode,postman" />
 
 </div>
 
@@ -74,14 +74,14 @@
 
 # 🚀 Featured Projects
 
-## 📌 Banking Dashboard
-A modern finance dashboard project with analytics and reports.
+## 📌 Laravel E-Commerce System
+Modern e-commerce platform with authentication, payments, and admin dashboard.
 
-## 📌 HR Management System
-A simple HR system for employee tracking and payroll.
+## 📌 REST API Project
+Secure RESTful API built using Laravel Sanctum and MySQL.
 
 ## 📌 Personal Portfolio Website
-Responsive portfolio website showcasing skills and projects.
+Modern responsive portfolio built with Laravel and Blade templates.
 
 ---
 
@@ -105,4 +105,4 @@ Responsive portfolio website showcasing skills and projects.
 5. Copy this template.
 6. Paste it into README.md.
 7. Replace all placeholders with your information.
-8. Commit c
+8. Commit changes.
