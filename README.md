@@ -89,7 +89,7 @@ Modern responsive portfolio built with Laravel and Blade templates.
 
 ### ✨ Profile Views
 
-![](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=khaled-moussa&color=blueviolet&style=for-the-badge)
 
 ### ⭐ Thanks for visiting my profile!
 
