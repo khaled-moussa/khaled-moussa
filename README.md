@@ -94,15 +94,3 @@ Modern responsive portfolio built with Laravel and Blade templates.
 ### ⭐ Thanks for visiting my profile!
 
 </div>
-```
-
-## How to Add It
-
-1. Go to GitHub.
-2. Create a new repository with the SAME name as your username.
-3. Make it Public.
-4. Add a README.md file.
-5. Copy this template.
-6. Paste it into README.md.
-7. Replace all placeholders with your information.
-8. Commit changes.
